@@ -86,11 +86,11 @@ msgstr "Skrifttype..."
 
 #: modules/mod-nyq-bench/NyqBench.cpp
 msgid "Split &Vertically"
-msgstr "Kløyv loddrett"
+msgstr "Del loddrett"
 
 #: modules/mod-nyq-bench/NyqBench.cpp
 msgid "Split &Horizontally"
-msgstr "Kløyv vannrett"
+msgstr "Del vannrett"
 
 #: modules/mod-nyq-bench/NyqBench.cpp
 msgid "Show S&cript"
@@ -182,7 +182,7 @@ msgstr "© 2009 av Leland Lucius"
 #: modules/mod-nyq-bench/NyqBench.cpp
 msgid ""
 "External Audacity module which provides a simple IDE for writing effects."
-msgstr "Ekstern Audacity-modul som har en enkel IDE for å skrive effekter."
+msgstr "Ekstern Audacity-modul med et enkelt IDE for å lage effekter."
 
 #: modules/mod-nyq-bench/NyqBench.cpp
 msgid "Nyquist Effect Workbench"
@@ -367,90 +367,90 @@ msgstr "Stopp skript"
 
 #: src/AboutDialog.cpp
 msgid "No revision identifier was provided"
-msgstr ""
+msgstr "Revisjon ikke angitt"
 
 #. i18n-hint: For "About Audacity..." credits, substituting a person's proper name
 #: src/AboutDialog.cpp
 #, fuzzy, c-format
 msgid "%s, system administration"
-msgstr "systemadministrasjon"
+msgstr "%s, systemadministrasjon"
 
 #. i18n-hint: For "About Audacity..." credits, substituting a person's proper name
 #: src/AboutDialog.cpp
 #, fuzzy, c-format
 msgid "%s, co-founder and developer"
-msgstr "medskaper og utvikler"
+msgstr "%s, medskaper og utvikler"
 
 #. i18n-hint: For "About Audacity..." credits, substituting a person's proper name
 #: src/AboutDialog.cpp
 #, fuzzy, c-format
 msgid "%s, developer"
-msgstr "utvikler"
+msgstr "%s, utvikler"
 
 #. i18n-hint: For "About Audacity..." credits, substituting a person's proper name
 #: src/AboutDialog.cpp
 #, fuzzy, c-format
 msgid "%s, documentation and support"
-msgstr "dokumentasjon og støtte"
+msgstr "%s, dokumentasjon og støtte"
 
 #. i18n-hint: For "About Audacity..." credits, substituting a person's proper name
 #: src/AboutDialog.cpp
 #, fuzzy, c-format
 msgid "%s, documentation and support, French"
-msgstr "dokumentasjon og støtte på fransk"
+msgstr "%s, dokumentasjon og støtte på fransk"
 
 #. i18n-hint: For "About Audacity..." credits, substituting a person's proper name
 #: src/AboutDialog.cpp
 #, fuzzy, c-format
 msgid "%s, quality assurance"
-msgstr "kvalitetsgaranti"
+msgstr "%s, kvalitetskontroll"
 
 #. i18n-hint: For "About Audacity..." credits, substituting a person's proper name
 #: src/AboutDialog.cpp
 #, fuzzy, c-format
 msgid "%s, accessibility advisor"
-msgstr "tilgjengelighetsrådgiver"
+msgstr "%s, rådgiver tilgjengelighet"
 
 #. i18n-hint: For "About Audacity..." credits, substituting a person's proper name
 #: src/AboutDialog.cpp
 #, fuzzy, c-format
 msgid "%s, graphic artist"
-msgstr "grafikkdesigner"
+msgstr "%s, grafikkdesigner"
 
 #. i18n-hint: For "About Audacity..." credits, substituting a person's proper name
 #: src/AboutDialog.cpp
 #, fuzzy, c-format
 msgid "%s, composer"
-msgstr "komponist"
+msgstr "%s, komponist"
 
 #. i18n-hint: For "About Audacity..." credits, substituting a person's proper name
 #: src/AboutDialog.cpp
 #, fuzzy, c-format
 msgid "%s, tester"
-msgstr "tester"
+msgstr "%s, tester"
 
 #. i18n-hint: For "About Audacity..." credits, substituting a person's proper name
 #: src/AboutDialog.cpp
 #, fuzzy, c-format
 msgid "%s, Nyquist plug-ins"
-msgstr "Nyquist-tillegg"
+msgstr "%s, Nyquist-tillegg"
 
 #. i18n-hint: For "About Audacity..." credits, substituting a person's proper name
 #: src/AboutDialog.cpp
 #, fuzzy, c-format
 msgid "%s, web developer"
-msgstr "nettutvikler"
+msgstr "%s, nettutvikler"
 
 #. i18n-hint: For "About Audacity..." credits, substituting a person's proper name
 #: src/AboutDialog.cpp
 #, fuzzy, c-format
 msgid "%s, graphics"
-msgstr "grafikk"
+msgstr "%s, grafikk"
 
 #: src/AboutDialog.cpp
 #, c-format
 msgid "%s (incorporating %s, %s, %s, %s and %s)"
-msgstr ""
+msgstr "%s (inkludert %s, %s, %s, %s og %s"
 
 #. i18n-hint: information about the program
 #: src/AboutDialog.cpp
@@ -472,21 +472,21 @@ msgid ""
 "%s is a free program written by a worldwide team of %s. %s is %s for "
 "Windows, Mac, and GNU/Linux (and other Unix-like systems)."
 msgstr ""
-"Audacity er et fritt program skrevet av et verdensdekkende lag av [[https://"
-"www.audacityteam.org/about/credits|utviklere]]. Audacity er [[https://www."
-"audacityteam.org/download|tilgjengelig]] for Windows, macOS, GNU/Linux, og "
+"%s er et gratis program skrevet av %s fra hele verden. [[https://"
+"www.audacityteam.org/about/credits|utviklere]]. %s er [[https://www."
+"audacityteam.org/download|%s]] for Windows, macOS, GNU/Linux, og "
 "andre Unix-lignende systemer."
 
 #. i18n-hint: substitutes into "a worldwide team of %s"
 #: src/AboutDialog.cpp
 msgid "volunteers"
-msgstr ""
+msgstr "frivillige"
 
 #. i18n-hint: substitutes into "Audacity is %s"
 #: src/AboutDialog.cpp
 #, fuzzy
 msgid "available"
-msgstr "Variabel"
+msgstr "tilgjengelig"
 
 #. i18n-hint first and third %s will be "forum", second "wiki"
 #: src/AboutDialog.cpp
@@ -496,26 +496,26 @@ msgid ""
 "our %s. For help, view the tips and tricks on our %s or visit our %s."
 msgstr ""
 "Hvis du finner en bug eller har et forslag til oss, vennligst skriv til oss "
-"på engelsk, til vår vårt [[https://forum.audacityteam.org/|forum]]. For "
+"på engelsk, til vårt [[https://forum.audacityteam.org/|%s]]. For "
 "hjelp, se tipsene og triksene på vår [[https://wiki.audacityteam.org/|"
-"Wiki]], eller besøk vårt [[https://forum.audacityteam.org/|forum]]."
+"%s]], eller besøk vårt [[https://forum.audacityteam.org/|%s]]."
 
 #. i18n-hint substitutes into "write to our %s"
 #: src/AboutDialog.cpp
 msgctxt "dative"
 msgid "forum"
-msgstr ""
+msgstr "forum"
 
 #. i18n-hint substitutes into "view the tips and tricks on our %s"
 #: src/AboutDialog.cpp
 msgid "wiki"
-msgstr ""
+msgstr "wiki"
 
 #. i18n-hint substitutes into "visit our %s"
 #: src/AboutDialog.cpp
 msgctxt "accusative"
 msgid "forum"
-msgstr ""
+msgstr "forum"
 
 #  i18n-hint: The translation of "translator_credits" will appear
 #  in the credits in the About Audacity window.  Use this to add
@@ -529,7 +529,7 @@ msgstr ""
 #: src/AboutDialog.cpp
 msgid "translator_credits"
 msgstr ""
-"norsk (bokmål) oversettelse av Imre Kristoffer Eilertsen og Kevin Brubeck "
+"Norsk (bokmål) oversettelse av Imre Kristoffer Eilertsen, Kevin Brubeck og Trond Åge Kvalø"
 "Unhammer"
 
 #: src/AboutDialog.cpp
@@ -543,7 +543,7 @@ msgid ""
 "%s the free, open source, cross-platform software for recording and editing "
 "sounds."
 msgstr ""
-"Audacity, den frie, åpen-kildede, flerplattforms programvaren for å spille "
+"Audacity, den frie, åpen-kildekode, flerplattforms programvaren for å spille "
 "inn og redigere lyder."
 
 #: src/AboutDialog.cpp
@@ -591,7 +591,7 @@ msgstr "Bibliotek"
 #: src/AboutDialog.cpp
 #, fuzzy, c-format
 msgid "%s includes code from the following projects:"
-msgstr "Audacity inkluderer kode fra de følgende prosjektene:"
+msgstr "Audacity inkluderer kode fra disse prosjektene:"
 
 #: src/AboutDialog.cpp
 msgid "Special thanks:"
@@ -608,14 +608,14 @@ msgstr "Audacity sitt nettsted: "
 #: src/AboutDialog.cpp
 #, c-format
 msgid "%s software is copyright %s 1999-2020 %s Team."
-msgstr ""
+msgstr "% programvaren er opphavsrettbeskyttet %s 1999-2020 %-teamet"
 
 #. i18n-hint Audacity's name substitutes for %s
 #: src/AboutDialog.cpp
 #, fuzzy, c-format
 msgid "The name %s is a registered trademark of Dominic Mazzoni."
 msgstr ""
-"&nbsp; &nbsp; Navnet <b>Audacity</b> er et varemerke registert av Dominic "
+"&nbsp; &nbsp; Navnet <b>%s</b> er et registrert varemerke tilhørende Dominic "
 "Mazzoni.<br><br>"
 
 #. i18n-hint: Information about when audacity was compiled
@@ -785,7 +785,7 @@ msgstr "Tidslinje"
 #.
 #: src/AdornedRulerPanel.cpp
 msgid "Click or drag to begin Seek"
-msgstr "Klikk og dra for å begynne å søke"
+msgstr "Klikk og dra for å begynne søk"
 
 #. i18n-hint: These commands assist the user in finding a sound by ear. ...
 #. "Scrubbing" is variable-speed playback, ...
@@ -793,7 +793,7 @@ msgstr "Klikk og dra for å begynne å søke"
 #.
 #: src/AdornedRulerPanel.cpp
 msgid "Click or drag to begin Scrub"
-msgstr "Klikk og dra for å begynne å dra"
+msgstr "Klikk og dra for å begynne hurtigsøk"
 
 #. i18n-hint: These commands assist the user in finding a sound by ear. ...
 #. "Scrubbing" is variable-speed playback, ...
@@ -801,7 +801,7 @@ msgstr "Klikk og dra for å begynne å dra"
 #.
 #: src/AdornedRulerPanel.cpp
 msgid "Click & move to Scrub. Click & drag to Seek."
-msgstr "Klikk og beveg for å gni. Klikk og dra for å lete."
+msgstr "Klikk og beveg for å hurtigsøke. Klikk og dra for å søke."
 
 #. i18n-hint: These commands assist the user in finding a sound by ear. ...
 #. "Scrubbing" is variable-speed playback, ...
@@ -809,7 +809,7 @@ msgstr "Klikk og beveg for å gni. Klikk og dra for å lete."
 #.
 #: src/AdornedRulerPanel.cpp
 msgid "Move to Seek"
-msgstr "Beveg for å lete"
+msgstr "Beveg for å søke"
 
 #. i18n-hint: These commands assist the user in finding a sound by ear. ...
 #. "Scrubbing" is variable-speed playback, ...
@@ -817,19 +817,19 @@ msgstr "Beveg for å lete"
 #.
 #: src/AdornedRulerPanel.cpp
 msgid "Move to Scrub"
-msgstr "Beveg for å dra"
+msgstr "Beveg for å hurtigsøke"
 
 #: src/AdornedRulerPanel.cpp
 msgid "Drag to Seek. Release to stop seeking."
-msgstr "Dra for å lete. Slipp for å stoppe å lete."
+msgstr "Dra for å søke. Slipp for å stoppe å søke."
 
 #: src/AdornedRulerPanel.cpp
 msgid "Drag to Seek. Release and move to Scrub."
-msgstr "Dra for å lete. Slipp og dra for å gni."
+msgstr "Dra for å søke. Slipp og dra for å hurtigsøke."
 
 #: src/AdornedRulerPanel.cpp
 msgid "Move to Scrub. Drag to Seek."
-msgstr "Beveg for å gni. Dra for å søke."
+msgstr "Beveg for å hurtigsøke. Dra for å søke."
 
 #: src/AdornedRulerPanel.cpp
 msgid "Quick-Play disabled"
@@ -842,7 +842,7 @@ msgstr "Hurtigavspilling aktivert"
 #: src/AdornedRulerPanel.cpp
 #, fuzzy
 msgid "Timeline Options"
-msgstr "Innstillinger for plug-ins"
+msgstr "Innstillinger for tidslinje"
 
 #: src/AdornedRulerPanel.cpp
 msgid "Enable Quick-Play"
@@ -919,11 +919,11 @@ msgid ""
 msgstr ""
 "Fant ikke fila %s.\n"
 "\n"
-"Den har blitt fjernet fra lista med nylig brukte filer."
+"Den har blitt fjernet fra lista over nylig brukte filer."
 
 #: src/AudacityApp.cpp
 msgid "SQLite library failed to initialize.  Audacity cannot continue."
-msgstr ""
+msgstr "SQLite-bilioteket kunne ikke initialiseres. Audacity kan ikke fortsette."
 
 #: src/AudacityApp.cpp
 msgid "Block size must be within 256 to 100000000\n"
@@ -953,7 +953,7 @@ msgstr "&Om Audacity..."
 
 #: src/AudacityApp.cpp
 msgid "&Preferences..."
-msgstr "&Preferences..."
+msgstr "&Preferanser..."
 
 #: src/AudacityApp.cpp src/menus/FileMenus.cpp
 msgid "&File"
@@ -966,17 +966,17 @@ msgid ""
 "temporary files.\n"
 "Please enter an appropriate directory in the preferences dialog."
 msgstr ""
-"Audacity kunne ikke finne et trygt sted å lagre midlertidig filer.\n"
+"Audacity kunne ikke finne et trygt sted å lagre midlertidige filer.\n"
 "Audacity trenger et sted hvor automatiske opprenskningsprogrammer ikke vil "
 "slette de midlertidige filene.\n"
-"Vennligst velg en passende filplassering i preferansemenyen."
+"Vennligst velg en passende filplassering i menyen Preferanser."
 
 #: src/AudacityApp.cpp
 msgid ""
 "Audacity could not find a place to store temporary files.\n"
 "Please enter an appropriate directory in the preferences dialog."
 msgstr ""
-"Audacity kunne ikke finne et sted å lagre midlertidig filer.\n"
+"Audacity kunne ikke finne et sted å lagre midlertidige filer.\n"
 "Vennligst legg inn en passende mappe i innstillinger-dialogboksen."
 
 #: src/AudacityApp.cpp
@@ -984,7 +984,7 @@ msgid ""
 "Audacity is now going to exit. Please launch Audacity again to use the new "
 "temporary directory."
 msgstr ""
-"Audacity vil nå avsluttes. Vennligst kjør Audacity igjen for å benytte den "
+"Audacity vil nå avsluttes. Vennligst start Audacity på nytt for å benytte den "
 "nye midlertidige mappen."
 
 #: src/AudacityApp.cpp
@@ -1011,7 +1011,7 @@ msgstr "Vil du starte Audacity likevel?"
 
 #: src/AudacityApp.cpp
 msgid "Error Locking Temporary Folder"
-msgstr "Feil ved lukking av midlertidig mappe"
+msgstr "Feil ved låsing av midlertidig mappe"
 
 #: src/AudacityApp.cpp
 msgid "The system has detected that another copy of Audacity is running.\n"
@@ -1036,11 +1036,15 @@ msgid ""
 "This is likely due to a resource shortage\n"
 "and a reboot may be required."
 msgstr ""
+"Mottok ikke semaforer.\n"
+"\n"
+"Dette skyldes sannsynligvis mangel på ressurser\n"
+"og vi anbefaler en omstart."
 
 #: src/AudacityApp.cpp
 #, fuzzy
 msgid "Audacity Startup Failure"
-msgstr "Audacity prosjektfiler"
+msgstr "Audacity oppstartsfeil"
 
 #: src/AudacityApp.cpp
 msgid ""
@@ -1049,6 +1053,10 @@ msgid ""
 "This is likely due to a resource shortage\n"
 "and a reboot may be required."
 msgstr ""
+"Kunne ikke opprette semaforer.\n"
+"\n"
+"Dette skyldes sannsynligvis mangel på ressurser\n"
+"og vi anbefaler en omstart."
 
 #: src/AudacityApp.cpp
 msgid ""
@@ -1057,6 +1065,10 @@ msgid ""
 "This is likely due to a resource shortage\n"
 "and a reboot may be required."
 msgstr ""
+"Mottok ikke låsesemafor.\n"
+"\n"
+"Dette skyldes sannsynligvis mangel på ressurser\n"
+"og vi anbefaler en omstart."
 
 #: src/AudacityApp.cpp
 msgid ""
@@ -1065,6 +1077,10 @@ msgid ""
 "This is likely due to a resource shortage\n"
 "and a reboot may be required."
 msgstr ""
+"Mottok ikke server-semafor.\n"
+"\n"
+"Dette skyldes sannsynligvis mangel på ressurser\n"
+"og vi anbefaler en omstart."
 
 #: src/AudacityApp.cpp
 msgid ""
@@ -1073,10 +1089,14 @@ msgid ""
 "This is likely due to a resource shortage\n"
 "and a reboot may be required."
 msgstr ""
+"Audacity IPC server kunne ikke initialisere.\n"
+"\n"
+"Dette skyldes sannsynligvis mangel på ressurser\n"
+"og vi anbefaler en omstart."
 
 #: src/AudacityApp.cpp
 msgid "An unrecoverable error has occurred during startup"
-msgstr ""
+msgstr "En uopprettelig feil opstod ved oppstart"
 
 #. i18n-hint: This controls the number of bytes that Audacity will
 #. *           use when writing files to the disk
@@ -1087,7 +1107,7 @@ msgstr "velg maksimal størrelse på diskblokker, i bytes"
 #. i18n-hint: This displays a list of available options
 #: src/AudacityApp.cpp
 msgid "this help message"
-msgstr "denne hjelpebeskjeden"
+msgstr "denne hjelpemeldingen"
 
 #. i18n-hint: This runs a set of automatic tests on Audacity itself
 #: src/AudacityApp.cpp
@@ -1114,9 +1134,9 @@ msgid ""
 "Associate them, so they open on double-click?"
 msgstr ""
 "Audacity prosjektfiler (.AUP) er ikke \n"
-"assosiert med Audacity.\n"
+"koblet til Audacity.\n"
 "\n"
-"Vil du rette dette, så de kan åpnes med et dobbeltklikk?"
+"Vil du koble de til, så de kan åpnes med et dobbeltklikk?"
 
 #: src/AudacityApp.cpp
 msgid "Audacity Project Files"
@@ -1130,7 +1150,7 @@ msgstr "Melding"
 #: src/AudacityFileConfig.cpp
 #, fuzzy
 msgid "Audacity Configuration Error"
-msgstr "DarkAudacity-tilpasning"
+msgstr "Audacity Konfigurasjonsfeil"
 
 #: src/AudacityFileConfig.cpp
 #, c-format
@@ -1148,6 +1168,18 @@ msgid ""
 "If you choose to \"Quit Audacity\", your project may be left in an unsaved "
 "state which will be recovered the next time you open it."
 msgstr ""
+"Fikk ikke tilgang til følgende konfigurasjonsfil:\n"
+"\n"
+"\t%s\n"
+"\n"
+"Dette kan skyldes flere ting, men mest sannsynlig så er enten disken full, "
+"eller så har du ikke skriverettigheter til fieln. Få mer informasjon ved å "
+"klikke på hjelp-knappen under.\n"
+"\n"
+"Prøv å fiks problemet og klikk deretter på \"Prøv igjen\" for å fortsette.\n"
+"\n"
+"Hvis du velger å \"Avslutt Audacity\", så risikerer du at prosjektet ikke lagres." 
+"Programmet vil prøve å gjenopprette prosjektet neste gang du åpner det."
 
 #: src/AudacityFileConfig.cpp src/ShuttleGui.cpp src/commands/HelpCommand.cpp
 #: src/effects/Equalization.cpp src/menus/HelpMenus.cpp
@@ -1162,7 +1194,7 @@ msgstr "Avslutt Audacity"
 
 #: src/AudacityFileConfig.cpp
 msgid "&Retry"
-msgstr ""
+msgstr "Prøv igjen"
 
 #: src/AudacityLogger.cpp
 msgid "Audacity Log"
